@@ -1,3 +1,5 @@
+<a>https://ninosauli.github.io/CV/#home</a>
+
 <p>
 I am a dedicated Software Developer with hands-on experience in React/React Native, currently I am learning backend development through Java, exploring frameworks like Spring Boot.
 <br/>
