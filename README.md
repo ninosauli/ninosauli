@@ -1,11 +1,3 @@
-
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=900&color=72C480&center=true&vCenter=true&width=435&lines=;Nino+Sauli;Software+Developer" alt="Typing SVG" /></a>
-</p>
-
-<br>
-<br>
-
 <p>
 I am a dedicated Software Developer with hands-on experience in React/React Native, currently I am learning backend development through Java, exploring frameworks like Spring Boot.
 <br/>
